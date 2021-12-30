@@ -5,9 +5,9 @@
 [![Environment - Group Project](https://img.shields.io/static/v1?label=Environment&message=Group+Project&color=66cc00)](https://)
 
 # **Enviroment Group Project**
-Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.it/) 5CL Class Research Group Project on Environmental Problems and Activism
+Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.it/) 5CL Class Research Group Project on Environmental Problems and Activism.
 #### Disclaimer
-> **All materials that have been utilised for the realisation of this group project are publicly avaiable and/or protected by CC license therefore their usage for this non-commercial project, is granted by the respective licensees**
+> **All materials that have been utilised for the realisation of this group project are publicly avaiable and/or protected by CC license therefore their usage for this non-commercial project, is granted by the respective licensees.**
 ---
 ## Credits
 ### Main Contributors
