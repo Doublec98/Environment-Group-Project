@@ -22,4 +22,10 @@ Repository for the Sesto Properzio High School 5CL Class Research Work Group on 
 
 ### Other Resources
 
-*  Climate Clocks
+* Climate Clocks
+
+### Utilised Softwares
+
+* Microsoft Powerpoint
+* Github Desktop
+* Visual Studio Code
