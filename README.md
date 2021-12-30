@@ -14,7 +14,7 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 *  Carolina Ranchicchio
 *  Maddalena Verducci
 > #### **[See the Contributors Spreadsheet](https://docs.google.com/spreadsheets/d/1Ty5upF7u9mXH8nXxu2uriRBbe4ZmnPErbU3EEF24N-s/edit?usp=sharing)**
-
+---
 ### Research Resources
 * [GQ Italia](https://www.gqitalia.it/lifestyle/article/climate-clock-terra-ha-ancora-7-anni-di-vita)
 * [NASA Climate](https://climate.nasa.gov/causes/)
