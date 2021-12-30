@@ -3,12 +3,12 @@ Repository for the 5CL Work Group on environment
 
 ## Credits
 
-Christian Cimieri
-Claudia Simonelli
-Ibtisam Eddami
-Martina Alessandretti
-Caterina Orbi
-Carolina Ranchicchio
-Maddalena Verducci
+1. Christian Cimieri
+1. Claudia Simonelli
+1. Ibtisam Eddami
+1. Martina Alessandretti
+1. Caterina Orbi
+1. Carolina Ranchicchio
+1. Maddalena Verducci
 
 
