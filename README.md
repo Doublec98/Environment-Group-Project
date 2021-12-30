@@ -16,8 +16,9 @@ Repository for the Sesto Properzio High School 5CL Class Research Work Group on 
 * NASA
 * United Nations SDGs
 
-
 ### Graphic Resources
+* Google Images
+* Pixabay
 
 ### Other Resources
 
