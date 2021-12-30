@@ -1,5 +1,5 @@
 # **Enviroment Work Group**
-Repository for the Sesto Properzio High School 5CL Class Research Work Group on Environmental Problems and Activism
+Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.it/) 5CL Class Research Work Group on Environmental Problems and Activism
 
 ## Credits
 ### Main Contributors
