@@ -1,4 +1,3 @@
-_Dash badge_
 
 [![LICEO - SESTO PROPERZIO](https://img.shields.io/badge/LICEO-SESTO_PROPERZIO-66cc00?style=for-the-badge)](https://www.liceoproperzio.edu.it/)
 
