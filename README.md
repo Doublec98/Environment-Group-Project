@@ -11,6 +11,14 @@ Repository for the Sesto Properzio High School 5CL Class Research Work Group on 
 *  Carolina Ranchicchio
 *  Maddalena Verducci
 
-### External Resources
+### Research Resources
+* GQ Italia
+* NASA
+* United Nations SDGs
+
+
+### Graphic Resources
+
+### Other Resources
 
 *  Climate Clocks
