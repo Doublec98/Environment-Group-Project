@@ -36,6 +36,7 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 * Github Desktop
 * Visual Studio Code
 * Google Docs
+* Miro
 ---
 #### Disclaimer
 > **All materials that have been utilised for the realisation of this group project is publicly avaiable and/or protected by CC license**
