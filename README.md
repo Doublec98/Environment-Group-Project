@@ -36,7 +36,7 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 
 * [Climate Clocks](https://climateclock.world/clocks)
 ---
-### Used Softwares
+### Used Softwares & Apps
 
 * Microsoft Powerpoint
 * Github Desktop
