@@ -11,4 +11,6 @@ Repository for the Sesto Properzio High School 5CL Class Research Work Group on 
 1. Carolina Ranchicchio
 1. Maddalena Verducci
 
+### External Resources
+
 
