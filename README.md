@@ -12,10 +12,10 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 *  Maddalena Verducci
 
 ### Research Resources
-* GQ Italia
-* NASA
-* United Nations SDGs
-* Fridays for Future
+* [GQ Italia](https://www.gqitalia.it/lifestyle/article/climate-clock-terra-ha-ancora-7-anni-di-vita)
+* [NASA Climate](https://climate.nasa.gov/causes/)
+* [United Nations SDGs](https://sdgs.un.org/goals)
+* [Fridays for Future](https://fridaysforfutureitalia.it/)
 
 ### Graphic Resources
 * Google Images
@@ -24,9 +24,9 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 
 ### Other Resources
 
-* Climate Clocks
+* [Climate Clocks](https://climateclock.world/clocks)
 
-### Utilised Softwares
+### Used Softwares
 
 * Microsoft Powerpoint
 * Github Desktop
