@@ -1,5 +1,5 @@
 # **Enviroment Work Group**
-Repository for the 5CL Work Group on environment
+Repository for the Sesto Properzio High School 5CL Class Research Work Group on Environmental Problems and Activism
 
 ## Credits
 ### Main Contributors
