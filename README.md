@@ -41,4 +41,4 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 * Miro
 ---
 #### Disclaimer
-> **All materials that have been utilised for the realisation of this group project is publicly avaiable and/or protected by CC license**
+> **All materials that have been utilised for the realisation of this group project are publicly avaiable and/or protected by CC license therefore their usage is granted by the respective licensees**
