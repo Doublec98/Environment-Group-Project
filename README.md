@@ -2,7 +2,7 @@
 [![LICEO - SESTO PROPERZIO](https://img.shields.io/badge/LICEO-SESTO_PROPERZIO-66cc00?style=for-the-badge)](https://www.liceoproperzio.edu.it/)
 ---
 # **Enviroment Group Project**
-Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.it/) 5CL Class Research Work Group on Environmental Problems and Activism
+Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.it/) 5CL Class Research Group Project on Environmental Problems and Activism
 #### Disclaimer
 > **All materials that have been utilised for the realisation of this group project are publicly avaiable and/or protected by CC license therefore their usage for this non-commercial project, is granted by the respective licensees**
 ---
