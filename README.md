@@ -14,6 +14,7 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 *  Carolina Ranchicchio
 *  Maddalena Verducci
 > #### **[See the Contributors' Tasks Spreadsheet](https://docs.google.com/spreadsheets/d/1Ty5upF7u9mXH8nXxu2uriRBbe4ZmnPErbU3EEF24N-s/edit?usp=sharing)**
+> #### **[See the Contributors Brainstorming Online Board](https://miro.com/app/board/uXjVObqqZpI=/)**
 ---
 ### Research Resources
 * [GQ Italia](https://www.gqitalia.it/lifestyle/article/climate-clock-terra-ha-ancora-7-anni-di-vita)
@@ -36,7 +37,8 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 * Github Desktop
 * Visual Studio Code
 * Google Docs
-* [Miro](https://miro.com/app/board/uXjVObqqZpI=/)
+* Google Spreadsheets
+* Miro
 ---
 #### Disclaimer
 > **All materials that have been utilised for the realisation of this group project is publicly avaiable and/or protected by CC license**
