@@ -15,10 +15,12 @@ Repository for the Sesto Properzio High School 5CL Class Research Work Group on 
 * GQ Italia
 * NASA
 * United Nations SDGs
+* Fridays for Future
 
 ### Graphic Resources
 * Google Images
 * Pixabay
+* TikTok
 
 ### Other Resources
 
