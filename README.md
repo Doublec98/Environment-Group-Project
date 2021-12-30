@@ -1,3 +1,7 @@
+_Dash badge_
+
+[![LICEO - SESTO PROPERZIO](https://img.shields.io/badge/LICEO-SESTO_PROPERZIO-66cc00?style=for-the-badge)](https://www.liceoproperzio.edu.it/)
+
 # **Enviroment Work Group**
 Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.it/) 5CL Class Research Work Group on Environmental Problems and Activism
 
