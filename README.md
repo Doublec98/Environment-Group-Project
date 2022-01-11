@@ -19,7 +19,7 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 *  Carolina Ranchicchio
 *  Maddalena Verducci
 
-> #### **[See the Final Website](https://doublec98.github.io/Environment-Group-Project/)**
+> #### **[See the Project's Website](https://doublec98.github.io/Environment-Group-Project/)**
 > #### **[See the Contributors' Tasks Spreadsheet](https://docs.google.com/spreadsheets/d/1Ty5upF7u9mXH8nXxu2uriRBbe4ZmnPErbU3EEF24N-s/edit?usp=sharing)**
 > #### **[See the Contributors' Online Brainstorming Board](https://miro.com/app/board/uXjVObqqZpI=/)**
 ---
