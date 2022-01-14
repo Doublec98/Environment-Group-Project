@@ -16,6 +16,7 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 *  Ibtisam Eddami
 *  Martina Alessandretti
 *  Caterina Orbi
+*  Matile Orbi
 *  Carolina Ranchicchio
 *  Maddalena Verducci
 
