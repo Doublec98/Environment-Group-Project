@@ -36,6 +36,10 @@ Repository for the [Sesto Properzio High School](https://www.liceoproperzio.edu.
 * TikTok
 * Pexels
 ---
+### Video & Image Hosting
+
+* Imgur
+---
 ### Other Resources
 
 * [Climate Clocks](https://climateclock.world/clocks)
